@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author MrRainx
+ * @author Yani
  */
 @Repository
 public interface ClienteRep extends JpaRepository<Cliente, String> {

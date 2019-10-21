@@ -15,7 +15,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 /**
- * @author MrRainx
+ * @author Yani
  */
 @Entity
 @Table(name = "cliente")

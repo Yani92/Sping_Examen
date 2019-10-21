@@ -8,7 +8,7 @@ package com.exam.examen.models;
 import javax.persistence.*;
 
 /**
- * @author MrRainx
+ * @author Yani
  */
 @Entity
 @Table(name = "detalle_factura")

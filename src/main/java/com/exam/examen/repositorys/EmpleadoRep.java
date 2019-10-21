@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @author MrRainx
+ * @author Yani
  */
 @Repository
 public interface EmpleadoRep extends JpaRepository<Empleado, String> {

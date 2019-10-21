@@ -10,7 +10,7 @@ import com.fasterxml.jackson.annotation.JsonBackReference;
 import javax.persistence.*;
 
 /**
- * @author MrRainx
+ * @author Yani
  */
 @Entity
 @Table(name = "producto")
